@@ -8,3 +8,4 @@
 # Você pode dar o nome que preferir para um 
 # ambiente virtual, mas os mais comens são
 # venv env . venv . env
+print('Ola, munod!')
